@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Example App",
+    "version": "1.0",
+    "category": "Utilities",
+    "icon": "📦",
+    "description": "Replace this example with an app in your library.",
+    "url": "https://example.com/app.apk"
+  }
+]
